@@ -1,0 +1,9 @@
+"Location","Location_Type","Environment","Latitude","Longitude","Target_CO2_Threshold","Target_PM25_Threshold"
+"Main Gate","Traffic Gate","Outdoor",28.545,77.192,500,60
+"Parking Lot","Parking Area","Outdoor",28.5442,77.191,500,60
+"Back Gate Entry 1","Secondary Gate","Outdoor",28.5495,77.196,500,60
+"Back Gate Entry 2","Secondary Gate","Outdoor",28.5488,77.1975,500,60
+"Library","Indoor Study","Indoor",28.5465,77.1935,1000,30
+"Canteen","Indoor Dining","Indoor",28.5458,77.1945,1000,45
+"Hostel Area","Residential","Outdoor/Residential",28.548,77.195,800,60
+"Playground","Outdoor Recreation","Outdoor",28.5472,77.1925,500,60

@@ -1,0 +1,4 @@
+"Model","Specification","RMSE","MAE","MAPE"
+"ARIMA (Non-seasonal)","ARIMA(2,0,0) with non-zero mean",13.32,10.89,13.76
+"SARIMA (Seasonal 24h)","ARIMA(1,0,2)(1,1,0)[24]",7.12,6.22,7.42
+"SARIMAX (Seasonal + Exogenous Traffic/Wind)","Regression with ARIMA(1,0,2)(1,1,0)[24] errors",6.05,5.12,6.15
