@@ -2,6 +2,8 @@
 
 An end-to-end environmental intelligence and predictive forecasting platform analyzing multi-pollutant concentrations ($\text{PM}_{2.5}$, $\text{CO}_2$, $\text{NO}_x$) alongside vehicular traffic, human footfall, and meteorological variables across campus micro-environments.
 
+> 📖 **Comprehensive Documentation**: Complete beginner-friendly documentation, architecture diagrams, data cleaning guides, and technical interview questions are available in the **[`docs/`](docs/README.md)** directory.
+
 ---
 
 ## 📁 Project Structure & Deliverables
